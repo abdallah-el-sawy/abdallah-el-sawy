@@ -12,7 +12,7 @@ I'm a passionate software developer who enjoys building modern, responsive, and 
 I'm currently focused on expanding my skills across both Frontend and Backend development.
 </p>
 
-* 👨‍💻 Currently working with **PHP & Laravel**
+* 👨‍💻 Currently working with **JS & NODEJS**
 * 🌱 Currently learning **React, Node.js, C#, .NET & Backend Development**
 * 🗄️ Working with **MySQL, SQL & MongoDB**
 * 🎯 Goal: Become a professional **Full-Stack Web Developer**
